@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.bak
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data and Output Files
+data/
+output/
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Text editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Seaborn and Matplotlib cache
+.cache/
