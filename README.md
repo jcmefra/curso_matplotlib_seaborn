@@ -4,27 +4,36 @@
 
 ## Contenido
 
-Los apuntes se estructuran alrededor de los siguientes temas abordados en el curso:
+En este repositorio, encontrarás mis apuntes y resúmenes organizados en base a los siguientes módulos y clases del curso "Visualización de Datos con Matplotlib y Seaborn":
 
-- Introducción a Matplotlib
-  - Configuración del entorno
-  - Creación de gráficos simples
-  - Personalización de estilo y colores
-  - Etiquetas y títulos
-  - Creación de subgráficos
+### Matplotlib
 
-- Gráficos Avanzados con Matplotlib
-  - Gráficos de dispersión
-  - Gráficos de líneas y barras
-  - Gráficos de áreas y de torta
-  - Anotaciones y marcadores
+- Pyplot básico
+- Subplot
+- Método orientado a objetos
+- Subplots
+- Leyendas, etiquetas, títulos, tamaño
+- Colores y estilos
+- Bar Plot
+- Crear otro tipo de gráficas
+- Quiz Matplotlib
 
-- Explorando Seaborn
-  - Ventajas de usar Seaborn
-  - Gráficos de distribución
-  - Gráficos de relación
-  - Gráficos categóricos
-  - Personalización avanzada en Seaborn
+### Seaborn
+
+- Set
+- Parámetros más usados con Seaborn
+- Distribuciones
+- Gráficos Categóricos
+- Gráficos de Relación
+- Jointplot y Pairplot
+- Heatmap
+- Quiz Seaborn
+
+### Cierre del curso
+
+- Posibilidades con Matplotlib y Seaborn
+
+Estos módulos y clases cubren una variedad de conceptos y técnicas esenciales para la visualización de datos utilizando Matplotlib y Seaborn. Cada uno de los elementos listados contiene una descripción detallada de su contenido y se relaciona con los archivos y apuntes correspondientes en este repositorio.
 
 ## Utilización
 
