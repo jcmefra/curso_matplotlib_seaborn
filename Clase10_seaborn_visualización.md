@@ -18,6 +18,7 @@ sns.'Tipo de Gráfica'(
      x='Datos en el eje x',
      y='Datos en el eje y',
      hue='Variable de Agrupamiento')
+```
 
 ## Tipos de Gráficas en Seaborn
 
