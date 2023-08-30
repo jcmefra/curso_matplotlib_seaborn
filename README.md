@@ -16,7 +16,6 @@ En este repositorio, encontrarás mis apuntes y resúmenes organizados en base a
 - Colores y estilos
 - Bar Plot
 - Crear otro tipo de gráficas
-- Quiz Matplotlib
 
 ### Seaborn
 
@@ -27,7 +26,6 @@ En este repositorio, encontrarás mis apuntes y resúmenes organizados en base a
 - Gráficos de Relación
 - Jointplot y Pairplot
 - Heatmap
-- Quiz Seaborn
 
 ### Cierre del curso
 
