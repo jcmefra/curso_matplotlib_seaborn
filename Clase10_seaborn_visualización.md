@@ -28,5 +28,23 @@ Seaborn proporciona una variedad de funciones para abordar diferentes tipos de v
 - **Distribución de Datos**: `displot` (histplot, kdeplot, ecdfplot, rugplot).
 - **Gráficos de Variables Categóricas**: `catplot` (stripplot, swamplot, boxplot, violinplot, pointplot, barplot).
 
+| Tipo de Gráfico       | Función de Seaborn              |
+|-----------------------|---------------------------------|
+| Gráfico de Histograma | `sns.histplot`                  |
+| Gráfico de KDE        | `sns.kdeplot`                   |
+| Gráfico de ECDF       | `sns.ecdfplot`                  |
+| Gráfico de Tira       | `sns.stripplot`                 |
+| Gráfico de Enjambre    | `sns.swarmplot`                 |
+| Gráfico de Caja       | `sns.boxplot`                   |
+| Gráfico de Violín     | `sns.violinplot`                |
+| Gráfico de Puntos     | `sns.pointplot`                 |
+| Gráfico de Barras     | `sns.barplot`                   |
+| Gráfico de Líneas     | `sns.lineplot`                  |
+| Gráfico de Relación   | `sns.relplot`                   |
+| Gráfico de Correlación| `sns.heatmap`                   |
+| Gráfico de Conjunto   | `sns.jointplot`                 |
+| Gráfico de Regresión  | `sns.lmplot`                    |
+
+
 Estas características hacen de Seaborn una herramienta poderosa para explorar y comunicar patrones en los datos de manera efectiva.
 
